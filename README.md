@@ -1,7 +1,7 @@
 # Hi, I'm Ben! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi!!" width="30px" height="30px">
 🐢 Studying Computer Science and Statistics at the University of Maryland, College Park <br>
 💡 I'm most interested in backend and web-app design <br>
-- 📫 You can find me on LinkedIn [here](https://www.linkedin.com/in/ben-a-fleming/) <br>
+📫 You can find me on LinkedIn [here](https://www.linkedin.com/in/ben-a-fleming/) <br>
 
 ## Some Technologies I have Enjoyed Working with
 <p align="center">
