@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi, I'm Ben! ![image](https://github.com/bfleming2/bfleming2/assets/101517622/42d70081-b548-4130-8358-78abf3e2d2bf)
+
 
 <!--
 **bfleming2/bfleming2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
