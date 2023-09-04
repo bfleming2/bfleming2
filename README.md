@@ -1,4 +1,5 @@
-## Hi, I'm Ben! ![image](https://github.com/bfleming2/bfleming2/assets/101517622/42d70081-b548-4130-8358-78abf3e2d2bf)
+## Hi, I'm Ben! ![gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
+
 
 
 <!--
