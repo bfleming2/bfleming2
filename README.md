@@ -1,6 +1,4 @@
-## Hi, I'm Ben! ![gif](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
-
-
+## Hi, I'm Ben! ![Hey!!](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif){width=300 height=200}
 
 <!--
 **bfleming2/bfleming2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
