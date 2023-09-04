@@ -8,7 +8,7 @@
 ## Some technologies I have enjoyed working with
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,java,docker,flask,js,flask,py,prisma,linux" />
+    <img src="https://skillicons.dev/icons?i=git,docker,react,java,js,flask,py,prisma,linux" />
   </a>
 </p>
 <!--
