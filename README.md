@@ -6,7 +6,7 @@
 📫 You can find me on LinkedIn [here](https://www.linkedin.com/in/ben-a-fleming/) <br>
 <br>
 ## Some technologies I have enjoyed working with
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,js,react,flask,py,prisma,linux" />
   </a>
