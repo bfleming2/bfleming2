@@ -1,7 +1,7 @@
 # Hi, I'm Ben! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi!!" width="30px" height="30px">
-🐢 Studying Computer Science and Statistics at the University of Maryland, College Park
-💡 I'm most interested in backend and web-app design
-📫 You can find me on LinkedIn [here](https://www.linkedin.com/in/ben-a-fleming/)
+-🐢 Studying Computer Science and Statistics at the University of Maryland, College Park
+-💡 I'm most interested in backend and web-app design
+-📫 You can find me on LinkedIn [here](https://www.linkedin.com/in/ben-a-fleming/)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,docker,js,react,flask,py,prisma,linux" />
