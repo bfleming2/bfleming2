@@ -1,4 +1,4 @@
-# Hi, I'm Ben! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi!!" width="30px" height="30px">
+# Hey, I'm Ben! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" alt="Hi!!" width="30px" height="30px">
 🐢 Studying Computer Science and Statistics at the University of Maryland, College Park <br>
 <br>
 💡 I'm most interested in backend and web-app design <br>
